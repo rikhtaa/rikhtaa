@@ -4,7 +4,6 @@ Full-stack developer focused on **backend engineering and system design**.
 
 Currently a **2nd year Computer Science student** learning how to build **scalable, secure, production-grade backend systems**.
 
---
 
 ## Tech Stack
 Languages: TypeScript, JavaScript  
@@ -32,48 +31,28 @@ Things I'm actively learning:
 
 The goal is to **understand production-level backend systems**.
 
---
 
 ## Pinned Projects
 
-### [mernspace-c-auth-serv](https://github.com/rikhtaa/mernspace-c-auth-serv)
+- [mernspace-c-auth-serv](https://github.com/rikhtaa/mernspace-c-auth-serv)  
+  Authentication microservice for a distributed MERN system.  
+  • JWT authentication  
+  • Secure login system  
+  • Role-based authorization  
+  • Token validation between services  
 
-Authentication microservice for a distributed MERN system.
+- [mernspace-c-admin-ui](https://github.com/rikhtaa/mernspace-c-admin-ui)  
+  Admin dashboard built with **Next.js**.  
+  • Platform management interface  
+  • User management tools  
+  • API integration with backend services  
 
-Features
-
-• JWT authentication  
-• Secure login system  
-• Role-based authorization  
-• Token validation between services  
-
---
-
-### [mernspace-c-admin-ui](https://github.com/rikhtaa/mernspace-c-admin-ui)
-
-Admin dashboard built with **Next.js**.
-
-Features
-
-• Platform management interface  
-• User management tools  
-• API integration with backend services  
-
---
-
-### [catalog-service](https://github.com/rikhtaa/catalog-service-)
-
-Catalog microservice responsible for product and item management.
-
-Responsibilities
-
-• Product management  
-• Inventory handling  
-• Item services  
-• Scalable product APIs  
-
---
-
+- [catalog-service](https://github.com/rikhtaa/catalog-service-)  
+  Catalog microservice responsible for product and item management.  
+  • Product management  
+  • Inventory handling  
+  • Item services  
+  • Scalable product APIs  
 ## Connect With Me
 
 <p align="left">
