@@ -19,16 +19,16 @@ The project is a **Pizza Delivery platform** built to practice real engineering 
 
 Things I'm actively learning:
 
-• Microservice architecture
-• Test-Driven Development (TDD)
-• REST API design for scalability
-• Token-based authentication systems
-• Role-based permissions
-• Multi-tenant backend systems
-• Docker containerized development
-• Performance optimization with caching
-• Secure backend architecture
-• Real-time communication systems
+• Microservice architecture  
+• Test-Driven Development (TDD)  
+• REST API design for scalability  
+• Token-based authentication systems  
+• Role-based permissions  
+• Multi-tenant backend systems  
+• Docker containerized development  
+• Performance optimization with caching  
+• Secure backend architecture  
+• Real-time communication systems  
 
 The goal is to **understand production-level backend systems**.
 
@@ -42,10 +42,10 @@ Authentication microservice for a distributed MERN system.
 
 Features
 
-• JWT authentication
-• Secure login system
-• Role-based authorization
-• Token validation between services
+• JWT authentication  
+• Secure login system  
+• Role-based authorization  
+• Token validation between services  
 
 ---
 
@@ -55,9 +55,9 @@ Admin dashboard built with **Next.js**.
 
 Features
 
-• Platform management interface
-• User management tools
-• API integration with backend services
+• Platform management interface  
+• User management tools  
+• API integration with backend services  
 
 ---
 
@@ -67,16 +67,19 @@ Catalog microservice responsible for product and item management.
 
 Responsibilities
 
-• Product management
-• Inventory handling
-• Item services
-• Scalable product APIs
+• Product management  
+• Inventory handling  
+• Item services  
+• Scalable product APIs  
 
 ---
 
 ## Connect With Me
-LinkedIn: https://www.linkedin.com/in/rekhta-menahil  
-X: https://x.com/rekhtamenahil  
-Instagram: https://www.instagram.com/rikhta__
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rekhta%20Menahil-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rekhta-menahil)
+
+[![X](https://img.shields.io/badge/X-@rekhtamenahil-000000?style=for-the-badge&logo=twitter)](https://x.com/rekhtamenahil)
+
+[![Instagram](https://img.shields.io/badge/Instagram-@rikhta__-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/rikhta__)
 
 ---
