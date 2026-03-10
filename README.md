@@ -4,7 +4,7 @@ Full-stack developer focused on **backend engineering and system design**.
 
 Currently a **2nd year Computer Science student** learning how to build **scalable, secure, production-grade backend systems**.
 
----
+--
 
 ## Tech Stack
 Languages: TypeScript, JavaScript  
@@ -32,7 +32,7 @@ Things I'm actively learning:
 
 The goal is to **understand production-level backend systems**.
 
----
+--
 
 ## Pinned Projects
 
@@ -47,7 +47,7 @@ Features
 • Role-based authorization  
 • Token validation between services  
 
----
+--
 
 ### [mernspace-c-admin-ui](https://github.com/rikhtaa/mernspace-c-admin-ui)
 
@@ -59,7 +59,7 @@ Features
 • User management tools  
 • API integration with backend services  
 
----
+--
 
 ### [catalog-service](https://github.com/rikhtaa/catalog-service-)
 
@@ -72,14 +72,22 @@ Responsibilities
 • Item services  
 • Scalable product APIs  
 
----
+--
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rekhta%20Menahil-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rekhta-menahil)
+<p align="left">
 
-[![X](https://img.shields.io/badge/X-@rekhtamenahil-000000?style=for-the-badge&logo=twitter)](https://x.com/rekhtamenahil)
+<a href="https://www.linkedin.com/in/rekhta-menahil">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+</a>
 
-[![Instagram](https://img.shields.io/badge/Instagram-@rikhta__-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/rikhta__)
+<a href="https://x.com/rekhtamenahil">
+<img src="https://img.shields.io/badge/X-000000?style=flat&logo=x-twitter&logoColor=white"/>
+</a>
 
----
+<a href="https://www.instagram.com/rikhta__">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
