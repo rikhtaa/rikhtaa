@@ -1,4 +1,4 @@
-# Rekhta　Menahil
+# Rekhta Menahil
 
 Full-stack developer focused on **backend engineering and system design**.
 
@@ -30,7 +30,7 @@ The goal is to become a backend engineer capable of designing and building scala
 
 ## Pinned Projects
 
-### EShop – Multi-Vendor E-Commerce SaaS
+### [EShop – Multi-Vendor E-Commerce SaaS](https://github.com/rikhtaa/multi-vendor-ecommerce-saas)
 Production-ready multi-vendor e-commerce platform built with a microservice architecture inside an Nx monorepo.
 
 **Highlights**
@@ -45,7 +45,7 @@ Production-ready multi-vendor e-commerce platform built with a microservice arch
 
 ---
 
-### Echo – AI Customer Support Platform
+### [Echo – AI Customer Support Platform](https://support-platform-web-xi.vercel.app)
 AI-powered B2B customer support platform built as a Turborepo monorepo.
 
 **Highlights**
