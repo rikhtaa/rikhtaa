@@ -10,50 +10,56 @@ Languages: TypeScript, JavaScript
 Frameworks: Node.js, Express, Next.js, React  
 Databases: MongoDB, PostgreSQL, Convex  
 
-## What I'm Currently Learning
+## What I'm Currently Building
 
-Right now I'm building a **microservices-based MERN application** while studying how modern backend systems are designed.
+I'm focused on building production-grade backend systems through real-world projects.
 
-The project is a **Pizza Delivery platform** built to practice real engineering concepts.
+Current areas of focus:
 
-Things I'm actively learning:
+- Microservice architecture
+- Distributed systems
+- Event-driven communication with Kafka
+- Scalable REST APIs
+- Authentication & authorization
+- Dockerized development
+- AI-integrated applications
+- Real-time communication
+- Performance optimization
+- System design
 
-• Microservice architecture  
-• Test-Driven Development (TDD)  
-• REST API design for scalability  
-• Token-based authentication systems  
-• Role-based permissions  
-• Multi-tenant backend systems  
-• Docker containerized development  
-• Performance optimization with caching  
-• Secure backend architecture  
-• Real-time communication systems  
-
-The goal is to **understand production-level backend systems**.
-
+The goal is to become a backend engineer capable of designing and building scalable production systems.
 
 ## Pinned Projects
 
-- [mernspace-c-auth-serv](https://github.com/rikhtaa/mernspace-c-auth-serv)  
-  Authentication microservice for a distributed MERN system.  
-  • JWT authentication  
-  • Secure login system  
-  • Role-based authorization  
-  • Token validation between services  
+### EShop – Multi-Vendor E-Commerce SaaS
+Production-ready multi-vendor e-commerce platform built with a microservice architecture inside an Nx monorepo.
 
-- [mernspace-c-admin-ui](https://github.com/rikhtaa/mernspace-c-admin-ui)  
-  Admin dashboard built with **Next.js**.  
-  • Platform management interface  
-  • User management tools  
-  • API integration with backend services  
+**Highlights**
+- 10+ independent microservices
+- API Gateway with rate limiting
+- Kafka event-driven communication
+- JWT authentication with refresh token rotation
+- Redis caching
+- Stripe payments
+- AI-powered product recommendations
+- Real-time WebSocket chat
+- Docker-based development
 
-- [catalog-service](https://github.com/rikhtaa/catalog-service-)  
-  Catalog microservice responsible for product and item management.  
-  • Product management  
-  • Inventory handling  
-  • Item services  
-  • Scalable product APIs  
-## Connect With Me
+---
+
+### Echo – AI Customer Support Platform
+AI-powered B2B customer support platform built as a Turborepo monorepo.
+
+**Highlights**
+- Multi-tenant SaaS architecture
+- Embeddable chat widget
+- RAG-powered AI agents
+- Real-time Convex backend
+- Clerk authentication & RBAC
+- Voice calling with Vapi
+- Organization knowledge base
+- Widget customization
+- ## Connect With Me
 
 <p align="left">
 
