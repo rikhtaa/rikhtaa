@@ -2,8 +2,7 @@
 
 Full-stack developer focused on **backend engineering and system design**.
 
-Currently a **2nd year Computer Science student** learning how to build **scalable, secure, production-grade backend systems**.
-
+Currently a **Computer Science student** focused on building **scalable, secure, production-grade backend systems** through real-world projects.
 
 ## Tech Stack
 Languages: TypeScript, JavaScript  
@@ -43,7 +42,6 @@ Production-ready multi-vendor e-commerce platform built with a microservice arch
 - Stripe payments
 - AI-powered product recommendations
 - Real-time WebSocket chat
-- Docker-based development
 
 ---
 
@@ -59,7 +57,7 @@ AI-powered B2B customer support platform built as a Turborepo monorepo.
 - Voice calling with Vapi
 - Organization knowledge base
 - Widget customization
-- ## Connect With Me
+## Connect With Me
 
 <p align="left">
 
